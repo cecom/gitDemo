@@ -3,3 +3,4 @@ feature2
 feature3
 bugfix
 newFeature
+anotherFeature
